@@ -33,3 +33,6 @@ Esta página web tiene como objetivo ayudar a los usuarios a realizar un seguimi
 Quiero expresar mi agradecimiento a la comunidad de desarrollo web y a todos los recursos en línea que me ayudaron a aprender y completar este proyecto.
 
 ¡Gracias por visitar mi proyecto y por tu interés en mi desarrollo como desarrollador frontend!
+
+![image](https://github.com/GaboGabito05/Ingresos-y-Egresos/assets/143914438/c0bb0b39-d43a-4183-aed0-910ec2a639c8)
+
